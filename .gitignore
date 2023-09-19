@@ -1,0 +1,9 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+2023-2-BE-Study/
